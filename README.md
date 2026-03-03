@@ -40,15 +40,16 @@ GitHub
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Sumathulasi/molssi-workshop.git
 
 Navigate into the folder:
 
-cd your-repo-name
+cd molssi-workshop
 
 Open the notebook:
 
 jupyter notebook
+
 🎯 Learning Objectives
 
 By completing this workshop, I practiced:
