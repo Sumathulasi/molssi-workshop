@@ -1,5 +1,5 @@
 # molssi-workshop
-This covers the MolSSI Workshop materials and notes for python proramming for bioinformatics and chemistry students.
+This covers the MolSSI Workshop materials and notes for python programming for bioinformatics and chemistry students.
 MolSSI Workshop
 
 This repository contains materials, exercises, and code developed during the MolSSI (Molecular Sciences Software Institute) Workshop.
